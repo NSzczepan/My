@@ -1,0 +1,5 @@
+Selenium\base\TestCommons.class
+Selenium\base\TestBase.class
+Selenium\pages\LogOutPage.class
+Selenium\pages\LoginPage.class
+Selenium\pages\EditPage.class
