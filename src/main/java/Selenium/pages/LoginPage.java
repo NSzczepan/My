@@ -10,7 +10,7 @@ public class LoginPage {
 
     private By login = By.id("inputUsername");
     private By password = By.id("inputPassword");
-    //private By rememberButton=By.id("inputRememberMe");
+   // private By rememberButton=By.id("inputRememberMe");
     private By submitButton = By.xpath("/html/body/app/div/div/div/div/div[2]/form/button");
 
 
@@ -29,9 +29,9 @@ public class LoginPage {
         driver.findElement(password).clear();
         driver.findElement(password).sendKeys(strPassword);
     }
-    //public void clickRememberMe() {
-       //driver.findElement(rememberButton).click();
-   // }
+   // public void clickRememberMe() {
+      // driver.findElement(rememberButton).click();
+    //}
 
     public void clickSignIn() {
         driver.findElement(submitButton).click();
@@ -41,7 +41,7 @@ public class LoginPage {
     public void signIn(String strLogin, String strPassword) {
         this.setLogin(strLogin);
         this.setPassword(strPassword);
-       //this.clickRememberMe();
+        //this.clickRememberMe();
         this.clickSignIn();
 
     }

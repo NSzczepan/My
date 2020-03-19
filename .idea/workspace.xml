@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7d68543-497d-4551-9080-7cffe36179d9" name="Default Changelist" comment="" />
+    <list default="true" id="b7d68543-497d-4551-9080-7cffe36179d9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My.git/HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My.git/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My.git/description" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My.git/hooks/applypatch-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My.git/hooks/commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My.git/hooks/fsmonitor-watchman.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My.git/hooks/post-update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My.git/hooks/pre-applypatch.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My.git/hooks/pre-commit.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My.git/hooks/pre-merge-commit.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My.git/hooks/pre-push.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My.git/hooks/pre-rebase.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My.git/hooks/pre-receive.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My.git/hooks/prepare-commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My.git/hooks/update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My.git/info/exclude" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My.git/objects/b2/53946bc7ea829b284724fe9f0f16e23b8da17f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My.git/objects/df/cf345f02a04365f9ef95982c12e847f45fcd8d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My.git/objects/e0/c456b5b96ebaf341463cbd2964865abfec9cf1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My.git/packed-refs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/html/overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/html/overview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/html/suite1_test1_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/html/suite1_test1_results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/html/suite1_test2_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/html/suite1_test2_results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/html/suite1_test3_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/html/suite1_test3_results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/xml/EditTest_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/xml/EditTest_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/xml/LogOutTest_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/xml/LogOutTest_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/xml/LoginTest_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/xml/LoginTest_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LoginTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +48,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -30,22 +68,47 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="TestNG.test">
-    <configuration name="test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test2" />
+  <component name="RunManager" selected="TestNG.Subscribe">
+    <configuration name="EditTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Framework" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="EditTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test.demoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test2" />
+    <configuration name="LoginFalseTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Framework" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <option name="METHOD_NAME" value="demoTest" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="LoginFalseTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Framework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Subscribe" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Framework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Subscribe" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -61,24 +124,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test.demoTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="test2" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <option name="METHOD_NAME" value="demoTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Subscribe" />
+        <item itemvalue="TestNG.LoginFalseTest" />
+        <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="TestNG.EditTest" />
         <item itemvalue="TestNG.test" />
-        <item itemvalue="JUnit.test" />
-        <item itemvalue="JUnit.test.demoTest" />
-        <item itemvalue="TestNG.test.demoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -100,21 +152,35 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="392" y="11" key="#test/0.0.1366.728@0.0.1366.728" timestamp="1583277144946" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1583278252662">
+    <state x="463" y="81" key="FileChooserDialogImpl" timestamp="1584651277344">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583278252662" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1583278252662">
+    <state x="463" y="81" key="FileChooserDialogImpl/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1584651277344" />
+    <state x="463" y="81" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584636840716" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584649697668">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583278252662" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1583278252662">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1584649697668" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584636421717" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584649697668">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583278252662" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1583278252662">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1584649697668" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584636421717" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584649697668">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583278252662" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1584649697668" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584636421716" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584649697668">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1584649697668" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584636421717" />
+    <state x="348" y="63" key="NewModule_or_Project.wizard" timestamp="1584651279496">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="348" y="63" key="NewModule_or_Project.wizard/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1584651279496" />
+    <state x="348" y="63" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1584636842190" />
   </component>
 </project>
