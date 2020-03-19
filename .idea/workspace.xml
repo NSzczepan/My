@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="688d4901-11c8-42bf-8342-a0643323a310" name="Default Changelist" comment="" />
+    <list default="true" id="b7d68543-497d-4551-9080-7cffe36179d9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +10,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -22,7 +21,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1ZE1fTivwavt1mP9BEGJcpqKVKH" />
+  <component name="ProjectId" id="1Ydbla0P9RPtwPHNsiTzEx9c2v0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,13 +29,31 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="TestNG.LogOutTest">
-    <configuration name="EditTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Framework" />
+  <component name="RunManager" selected="TestNG.test">
+    <configuration name="test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test2" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EditTest" />
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.demoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <option name="METHOD_NAME" value="demoTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="test" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -44,67 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogOutTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Framework" />
+    <configuration name="test.demoTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test2" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LogOutTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Framework" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LoginTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Framework" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LoginTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginTest.testLoginPage" type="TestNG" temporary="true" nameIsGenerated="true">
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LoginTest" />
-      <option name="METHOD_NAME" value="testLoginPage" />
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <option name="METHOD_NAME" value="demoTest" />
       <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginTest.testLoginPage" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="justin" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LoginTest" />
-      <option name="METHOD_NAME" value="testLoginPage" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NetLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="justin" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NetLoginTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -113,10 +75,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LogOutTest" />
-        <item itemvalue="TestNG.EditTest" />
-        <item itemvalue="TestNG.LoginTest (1)" />
-        <item itemvalue="TestNG.NetLoginTest" />
+        <item itemvalue="TestNG.test" />
+        <item itemvalue="JUnit.test" />
+        <item itemvalue="JUnit.test.demoTest" />
+        <item itemvalue="TestNG.test.demoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -125,57 +87,34 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="688d4901-11c8-42bf-8342-a0643323a310" name="Default Changelist" comment="" />
-      <created>1584389542636</created>
+      <changelist id="b7d68543-497d-4551-9080-7cffe36179d9" name="Default Changelist" comment="" />
+      <created>1583275569938</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1584389542636</updated>
+      <updated>1583275569938</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="148" key="FileChooserDialogImpl" timestamp="1584563061703">
+    <state x="392" y="11" key="#test" timestamp="1583277144946">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="-1234" y="211" key="FileChooserDialogImpl/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1584463535063" />
-    <state x="488" y="148" key="FileChooserDialogImpl/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1584563061703" />
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1440.172.1440.860@0.0.1536.824" timestamp="1584395514670" />
-    <state width="1323" height="214" key="GridCell.Tab.0.bottom" timestamp="1584557371328">
+    <state x="392" y="11" key="#test/0.0.1366.728@0.0.1366.728" timestamp="1583277144946" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1583278252662">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1584461804724" />
-    <state width="1323" height="214" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1584557371328" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1440.172.1440.860@0.0.1536.824" timestamp="1584458118067" />
-    <state width="1323" height="214" key="GridCell.Tab.0.center" timestamp="1584557371328">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583278252662" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1583278252662">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1584461804723" />
-    <state width="1323" height="214" key="GridCell.Tab.0.center/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1584557371328" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1440.172.1440.860@0.0.1536.824" timestamp="1584458118066" />
-    <state width="1323" height="214" key="GridCell.Tab.0.left" timestamp="1584557371328">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583278252662" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1583278252662">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1584461804723" />
-    <state width="1323" height="214" key="GridCell.Tab.0.left/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1584557371328" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1440.172.1440.860@0.0.1536.824" timestamp="1584458118066" />
-    <state width="1323" height="214" key="GridCell.Tab.0.right" timestamp="1584557371328">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583278252662" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1583278252662">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1584461804724" />
-    <state width="1323" height="214" key="GridCell.Tab.0.right/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1584557371328" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1440.172.1440.860@0.0.1536.824" timestamp="1584458118067" />
-    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1584390270616">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824/-1440.172.1440.860@0.0.1536.824" timestamp="1584390270616" />
-    <state x="356" y="126" key="NewModule_or_Project.wizard" timestamp="1584563063852">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="-1419" y="245" key="NewModule_or_Project.wizard/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1584463536552" />
-    <state x="356" y="126" key="NewModule_or_Project.wizard/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1584563063852" />
-    <state x="-1578" y="215" key="new project wizard" timestamp="1584463697819">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-1578" y="215" key="new project wizard/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1584463697819" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583278252662" />
   </component>
 </project>
