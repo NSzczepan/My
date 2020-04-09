@@ -1,0 +1,10 @@
+WebDriver.get(String url) – otwórz stronę o podanym adresie
+WebDriver.close() – zamknij aktywne okno
+WebDriver.getCurrentUrl() – zwróć url aktualnie otwartej strony
+WebDriver.Navigation.refresh() – odśwież stronę
+WebDriver.Navigation.back() – nawiguj ‚wstecz’ w historii przeglądarki
+WebDriver.Navigation.forward() – nawiguj ‚dalej’ w historii przeglądarki
+WebElement.click() – kliknij dany element
+WebElement.sendKeys(CharSequence… keysToSend) – wpis tekst w element (np. polu tekstowym)
+WebElement.clear() – jeżeli elementem jest pole tekstowe, wyczyść jego wartość
+WebElement.getText() – zwróć tekst elementu
